@@ -1,0 +1,13 @@
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\bin\Release\Noter.exe.config
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\bin\Release\Noter.exe
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\bin\Release\Noter.pdb
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\obj\Release\Noter.CreateNoteDialog.resources
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\obj\Release\Noter.MainScreen.resources
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\obj\Release\Noter.NoteEditor.resources
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\obj\Release\Noter.Properties.Resources.resources
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\obj\Release\Noter.WelcomePage.resources
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\obj\Release\Noter.csproj.GenerateResource.cache
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\obj\Release\Noter.csproj.CoreCompileInputs.cache
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\obj\Release\Noter.exe
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\obj\Release\Noter.pdb
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\obj\Release\Noter.csprojAssemblyReference.cache

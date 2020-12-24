@@ -1,0 +1,26 @@
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\bin\Debug\Noter.exe.config
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\bin\Debug\Noter.exe
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\bin\Debug\Noter.pdb
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\obj\Debug\Noter.csprojAssemblyReference.cache
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\obj\Debug\Noter.Properties.Resources.resources
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\obj\Debug\Noter.WelcomePage.resources
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\obj\Debug\Noter.csproj.GenerateResource.cache
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\obj\Debug\Noter.csproj.CoreCompileInputs.cache
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\obj\Debug\Noter.exe
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\obj\Debug\Noter.pdb
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\obj\Debug\Noter.CreateNoteDialog.resources
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\obj\Debug\Noter.MainScreen.resources
+C:\Users\tanve\OneDrive\Desktop\My Stuff\VisualStudioProjects\Noter\Noter\obj\Debug\Noter.NoteEditor.resources
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Noter\Noter\bin\Debug\Noter.exe.config
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Noter\Noter\bin\Debug\Noter.exe
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Noter\Noter\bin\Debug\Noter.pdb
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Noter\Noter\obj\Debug\Noter.csprojAssemblyReference.cache
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Noter\Noter\obj\Debug\Noter.CreateNoteDialog.resources
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Noter\Noter\obj\Debug\Noter.MainScreen.resources
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Noter\Noter\obj\Debug\Noter.NoteEditor.resources
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Noter\Noter\obj\Debug\Noter.Properties.Resources.resources
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Noter\Noter\obj\Debug\Noter.WelcomePage.resources
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Noter\Noter\obj\Debug\Noter.csproj.GenerateResource.cache
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Noter\Noter\obj\Debug\Noter.csproj.CoreCompileInputs.cache
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Noter\Noter\obj\Debug\Noter.exe
+E:\HARDDRIVE\Tanveer\Internal\VisualStudioProjects\Noter\Noter\obj\Debug\Noter.pdb
