@@ -68,6 +68,8 @@ namespace Noter
 
         public void ShowNewPage(UserControl ToClose, UserControl ToOpen)
         {
+            ToOpen.Dock = DockStyle.Fill;
+
             ToClose.Dispose();
             WindowContainer.Controls.Remove(ToClose);
 

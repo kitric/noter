@@ -36,6 +36,7 @@
             // 
             // label1
             // 
+            this.label1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
@@ -47,6 +48,7 @@
             // 
             // NameField
             // 
+            this.NameField.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.NameField.BackColor = System.Drawing.Color.White;
             this.NameField.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.NameField.Font = new System.Drawing.Font("Century Gothic", 10F);
@@ -60,6 +62,7 @@
             // 
             // label2
             // 
+            this.label2.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label2.AutoSize = true;
             this.label2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.label2.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -73,6 +76,7 @@
             // 
             // cancel
             // 
+            this.cancel.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.cancel.AutoSize = true;
             this.cancel.Cursor = System.Windows.Forms.Cursors.Hand;
             this.cancel.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));

@@ -38,6 +38,8 @@
             // 
             // NotesContainer
             // 
+            this.NotesContainer.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left)));
             this.NotesContainer.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
             this.NotesContainer.Location = new System.Drawing.Point(0, 79);
             this.NotesContainer.Name = "NotesContainer";
@@ -46,6 +48,9 @@
             // 
             // WindowContainer
             // 
+            this.WindowContainer.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.WindowContainer.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(26)))), ((int)(((byte)(26)))));
             this.WindowContainer.Location = new System.Drawing.Point(209, 0);
             this.WindowContainer.Name = "WindowContainer";
@@ -82,8 +87,6 @@
             this.Controls.Add(this.NotesContainer);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.KeyPreview = true;
-            this.MaximizeBox = false;
-            this.MaximumSize = new System.Drawing.Size(816, 489);
             this.MinimumSize = new System.Drawing.Size(816, 489);
             this.Name = "MainScreen";
             this.Text = "Noter";
