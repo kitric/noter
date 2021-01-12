@@ -43,7 +43,7 @@
             this.NotesContainer.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
             this.NotesContainer.Location = new System.Drawing.Point(0, 79);
             this.NotesContainer.Name = "NotesContainer";
-            this.NotesContainer.Size = new System.Drawing.Size(209, 371);
+            this.NotesContainer.Size = new System.Drawing.Size(226, 371);
             this.NotesContainer.TabIndex = 0;
             // 
             // WindowContainer
